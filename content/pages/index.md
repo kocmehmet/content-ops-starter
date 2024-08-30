@@ -72,7 +72,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 500+
-        subtitle: Numbers Done
+        subtitle: Projects Completed
         text: >
           Leveraged AI to deliver over 500 cutting-edge architectural and
           engineering projects, optimizing efficiency and precision at every
