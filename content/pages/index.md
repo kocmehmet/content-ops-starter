@@ -71,7 +71,7 @@ sections:
     subtitle: 'Innovative Solutions for Efficient, Future-Ready Urban Spaces'
     items:
       - type: FeaturedItem
-        title: 500+ Projects Completed
+        title: 500+
         subtitle: Numbers Done
         text: >
           Leveraged AI to deliver over 500 cutting-edge architectural and
