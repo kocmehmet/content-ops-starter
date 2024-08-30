@@ -71,7 +71,7 @@ sections:
     subtitle: 'Innovative Solutions for Efficient, Future-Ready Urban Spaces'
     items:
       - type: FeaturedItem
-        title: 500k
+        title: 500+ Projects Completed
         subtitle: Numbers Done
         text: >
           Harness the Power of AI for Up to 40% Cost Savings, 30% Faster Project
