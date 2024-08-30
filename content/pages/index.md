@@ -12,10 +12,14 @@ sections:
     subtitle: >-
       Innovative Solutions for Tomorrow's Cities, Where Technology Meets Design
       and Science Inspires Creation.
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+
+      At the intersection of AI, architecture, engineering, and science, we
+      craft visionary spaces that are both functional and beautiful. Every
+      design we create is a seamless blend of cutting-edge technology and
+      timeless aesthetic principles, ensuring that each project not only meets
+      but exceeds the demands of the future.
+
     actions:
       - label: Get started
         altText: ''
