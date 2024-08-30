@@ -73,10 +73,9 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Harness the Power of AI for Up to 40% Cost Savings, 30% Faster Project
+          Completion, and 50% Higher Long-Term ROI
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
