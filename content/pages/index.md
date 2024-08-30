@@ -4,9 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        Shaping the Future with AI-Driven Architectural, Engineering, and
-        Scientific Excellence.
+      text: Shaping the Future with AI-Driven Design and Engineering Excellence.
       color: text-dark
       type: TitleBlock
     subtitle: >-
@@ -40,7 +38,10 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: >-
+        /images/DALL·E 2024-08-30 20.15.10 - Generate a highly detailed and
+        realistic image showcasing a dynamic cityscape where building density is
+        modeled using cellular automata. The scene dep.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -61,21 +62,21 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: DRIVING SUSTAINABLE GROWTH THROUGH AI-ENABLED DESIGN
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'Innovative Solutions for Efficient, Future-Ready Urban Spaces'
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: 500+
+        subtitle: Projects Completed
+        text: >
+          Leveraged AI to deliver over 500 cutting-edge architectural and
+          engineering projects, optimizing efficiency and precision at every
+          step
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -98,12 +99,11 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: 10x
+        subtitle: Efficiency Increase
+        text: >
+          Achieved a 10x increase in design efficiency with AI-powered tools,
+          reducing project timelines and enhancing overall productivity.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -123,12 +123,11 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: 95%
+        subtitle: Client Satisfaction
+        text: >
+          Maintained a 95% client satisfaction rate through innovative AI
+          solutions that meet the highest standards of quality and performance.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -157,7 +156,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Transforming Cities with Precision and Innovation
       color: text-primary
       styles:
         self:
