@@ -68,7 +68,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'Innovative Solutions for Efficient, Future-Ready Urban Spaces'
     items:
       - type: FeaturedItem
         title: 500k
