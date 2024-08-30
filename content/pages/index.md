@@ -62,7 +62,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: DRIVING SUSTAINABLE GROWTH THROUGH AI-ENABLED DESIGN
       color: text-dark
       styles:
         self:
