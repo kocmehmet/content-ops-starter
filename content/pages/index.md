@@ -74,8 +74,9 @@ sections:
         title: 500+ Projects Completed
         subtitle: Numbers Done
         text: >
-          Harness the Power of AI for Up to 40% Cost Savings, 30% Faster Project
-          Completion, and 50% Higher Long-Term ROI
+          Leveraged AI to deliver over 500 cutting-edge architectural and
+          engineering projects, optimizing efficiency and precision at every
+          step
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
