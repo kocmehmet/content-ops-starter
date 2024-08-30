@@ -4,9 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        Shaping the Future with AI-Driven Architectural, Engineering, and
-        Scientific Excellence.
+      text: Shaping the Future with AI-Driven Design and Engineering Excellence.
       color: text-dark
       type: TitleBlock
     subtitle: >-
