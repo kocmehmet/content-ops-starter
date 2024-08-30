@@ -101,10 +101,9 @@ sections:
               borderRadius: x-large
       - title: 10x
         subtitle: Efficiency Increase
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Achieved a 10x increase in design efficiency with AI-powered tools,
+          reducing project timelines and enhancing overall productivity.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
