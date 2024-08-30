@@ -99,7 +99,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: 10x
         subtitle: Efficiency Increase
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
