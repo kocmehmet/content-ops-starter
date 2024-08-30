@@ -5,8 +5,8 @@ sections:
   - type: GenericSection
     title:
       text: >-
-        Designing the FutureWhere AI Meets Architecture""Engineering Tomorrow's
-        Aesthetic Cities"
+        Shaping the Future with AI-Driven Architectural, Engineering, and
+        Scientific Excellence.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
