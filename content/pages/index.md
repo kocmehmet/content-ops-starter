@@ -38,10 +38,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: >-
-        /images/DALL·E 2024-08-30 20.15.10 - Generate a highly detailed and
-        realistic image showcasing a dynamic cityscape where building density is
-        modeled using cellular automata. The scene dep.webp
+      url: /images/city.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
